@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Md_janeshar-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Md_Janeshar-yellow)](https://stackoverflow.com/users/19542931/md-janeshar-akhtar)
 
-<h2 style="background-color: #4CAF50; color: Red; padding: 10px 24px; border: none; border-radius: 4px;">MD JANESHAR</h2>
+<h2 style="background-color: white; color: Red; padding: 10px 24px; border: none; border-radius: 4px;">MD JANESHAR</h2>
 
 I'm Full Stack Solution Architect. The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (Java, Spring, Spring Boot, Microservices), design (working closely with designers), front-end development (HTML, CSS, JavaScript), and database (MySQL).
 
